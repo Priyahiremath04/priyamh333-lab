@@ -1,16 +1,108 @@
-## Hi there 👋
+Hi there 👋 I'm Priya Hiremath
 
-<!--
-**priyamh333-lab/priyamh333-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💡 Passionate about Artificial Intelligence, Machine Learning, and Data Science
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 💻 I enjoy building AI and Machine Learning projects
+- 📊 Interested in Data Visualization and Predictive Analytics
+- 🤖 Exploring Computer Vision and Deep Learning
+- 🌱 Currently improving my skills in Advanced Machine Learning
+
+---
+
+🛠️ Skills
+
+Programming
+
+- Python
+
+Machine Learning
+
+- Machine Learning Algorithms
+- CNN
+- Predictive Modeling
+
+Libraries & Tools
+
+- Pandas
+- NumPy
+- OpenCV
+- Dash
+- Matplotlib
+- Scikit-learn
+
+Tools
+
+- Git
+- Jupyter Notebook
+
+---
+
+📂 Projects
+
+📈 Stock Visualization & Forecasting using Dash
+
+Interactive dashboard to visualize stock market trends and forecast future prices using machine learning.
+
+Tech Used
+
+- Python
+- Dash
+- Pandas
+- Machine Learning
+
+---
+
+✋ Gesture Recognition using Machine Learning
+
+A machine learning system that detects and classifies hand gestures.
+
+Tech Used
+
+- Python
+- OpenCV
+- Machine Learning
+
+---
+
+🎵 Facial Emotion Recognition Music Recommendation
+
+A smart system that detects facial emotions using CNN and recommends music based on the detected mood.
+
+Tech Used
+
+- Python
+- OpenCV
+- CNN
+- Deep Learning
+
+---
+
+📊 GitHub Stats
+
+"Priya's GitHub stats" (https://github-readme-stats.vercel.app/api?username=priyamh333-lab&show_icons=true&theme=tokyonight)
+
+---
+
+🌱 Currently Learning
+
+- Deep Learning
+- Computer Vision
+- Neural Networks
+
+---
+
+📫 Connect With Me
+
+📧 Email: priyamh9986@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/priya-hiremath-60aa62284
+
+---
+
+⭐ Thanks for visiting my profile!

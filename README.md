@@ -98,7 +98,7 @@ Tech Used
 
 📫 Connect With Me
 
-📧 Email: priyamh9986@gmail.com
+📧 Email: priyamh333@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/priya-hiremath-60aa62284
